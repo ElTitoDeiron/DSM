@@ -1,0 +1,203 @@
+0    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - --------------------------------------------------------------------------------------
+2    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - EMF Modeling Workflow Engine 1.3.11, Build v201508030321
+3    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - (c) 2005-2009 openarchitectureware.org and contributors
+3    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - --------------------------------------------------------------------------------------
+3    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - running workflow: C:/ooh4ria/workspaceNuevo/TiendaOnline/templates/workflow/generator.mwe
+3    [main] INFO  eclipse.emf.mwe.core.WorkflowEngine  - 
+462  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Registering platform uri 'C:\ooh4ria\workspaceNuevo'
+550  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Adding generated EPackage 'es.ua.dlsi.ooh.conceptualView.ConceptualViewPackage'
+609  [main] INFO  lipse.emf.mwe.utils.StandaloneSetup  - Adding generated EPackage 'org.eclipse.gmf.runtime.notation.NotationPackage'
+724  [main] INFO  e.core.container.CompositeComponent  - Workflow: executing workflow workflow::nhibernate::generator.mwe in C:/ooh4ria/workspaceNuevo/TiendaOnline/templates/workflow/generator.mwe:11
+724  [main] INFO  e.core.container.CompositeComponent  - XmiReader: file 'models/default.domainModel' => slot 'es_ua_dlsi_ooh_conceptual_model'
+971  [main] INFO  e.core.container.CompositeComponent  - CheckComponent: slot es_ua_dlsi_ooh_conceptual_model check file(s): metamodel::Checks 
+1502 [main] INFO  e.core.container.CompositeComponent  - es.ua.dlsi.ooh.persistence.nhibernate.generator.workflowComponents.CleanBackup
+Se ha borrado el directorio backup en la ubicacion: ../TiendaOnlineGen\Backup
+1511 [main] INFO  e.core.container.CompositeComponent  - Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen]
+La licencia está en vigor. Su fecha de expiración es: Wed Aug 18 21:24:38 CEST 2021
+configuroConf:C:\Users\GASPAR~1\AppData\Local\Temp\OOH4RIA637326492257991808.cfg
+enc:utf-8
+1927 [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Source scan started ...
+2324 [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Source scan finished in 0.391s
+2324 [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Files scanned: 436
+2324 [main] INFO  and2.pr.ProtectedRegionResolverImpl  - Regions found: 31
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+enc:utf-8
+2733 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - UsuarioCAD
+enc:utf-8
+2818 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - PedidoCAD
+LA clase origen: Pedido y el nombre de rol: usuario
+DISTINTO en: asoOrigin: factura_pedido. El nombre del rol origen: factura de el rol destino: usuario
+LA clase destino: Pedido y el nombre de rol: usuario
+Encontrado en: asoTarget: pedido_usuario El nombre de rol origen (generado): pedidos y el nombre del rol destino:usuario
+LA clase origen: Pedido y el nombre de rol: usuario
+DISTINTO en: asoOrigin: factura_pedido. El nombre del rol origen: factura de el rol destino: usuario
+LA clase destino: Pedido y el nombre de rol: usuario
+Encontrado en: asoTarget: pedido_usuario El nombre de rol origen (generado): pedidos y el nombre del rol destino:usuario
+LA clase origen: Pedido y el nombre de rol: usuario
+DISTINTO en: asoOrigin: factura_pedido. El nombre del rol origen: factura de el rol destino: usuario
+LA clase destino: Pedido y el nombre de rol: usuario
+Encontrado en: asoTarget: pedido_usuario El nombre de rol origen (generado): pedidos y el nombre del rol destino:usuario
+enc:utf-8
+2902 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - LineaPedidoCAD
+LA clase origen: LineaPedido y el nombre de rol: pedido
+Encontrado en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: pedido
+Encontrado en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: pedido
+Encontrado en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: pedido
+Encontrado en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: pedido
+Encontrado en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: pedido
+Encontrado en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: producto
+DISTINTO en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido de el rol destino: producto
+Encontrado en: asoOrigin: producto_lineaPedido. El nombre del rol origen: producto y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: producto
+DISTINTO en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido de el rol destino: producto
+Encontrado en: asoOrigin: producto_lineaPedido. El nombre del rol origen: producto y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: producto
+DISTINTO en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido de el rol destino: producto
+Encontrado en: asoOrigin: producto_lineaPedido. El nombre del rol origen: producto y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: producto
+DISTINTO en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido de el rol destino: producto
+Encontrado en: asoOrigin: producto_lineaPedido. El nombre del rol origen: producto y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: producto
+DISTINTO en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido de el rol destino: producto
+Encontrado en: asoOrigin: producto_lineaPedido. El nombre del rol origen: producto y el nombre de rol destino: lineasPedido
+LA clase origen: LineaPedido y el nombre de rol: producto
+DISTINTO en: asoOrigin: pedido_línea de pedido. El nombre del rol origen: pedido de el rol destino: producto
+Encontrado en: asoOrigin: producto_lineaPedido. El nombre del rol origen: producto y el nombre de rol destino: lineasPedido
+enc:utf-8
+2975 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - FacturaCAD
+LA clase origen: Factura y el nombre de rol: pedido
+LA clase destino: Factura y el nombre de rol: pedido
+Encontrado en: asoTarget: factura_pedido El nombre de rol origen (generado): factura y el nombre del rol destino:pedido
+LA clase origen: Factura y el nombre de rol: pedido
+LA clase destino: Factura y el nombre de rol: pedido
+Encontrado en: asoTarget: factura_pedido El nombre de rol origen (generado): factura y el nombre del rol destino:pedido
+LA clase origen: Factura y el nombre de rol: pedido
+LA clase destino: Factura y el nombre de rol: pedido
+Encontrado en: asoTarget: factura_pedido El nombre de rol origen (generado): factura y el nombre del rol destino:pedido
+enc:utf-8
+3096 [main] INFO  ipse.xtend.util.stdlib.IOExtensions  - ArticuloCAD
+LA clase origen: Articulo y el nombre de rol: producto
+DISTINTO en: asoOrigin: factura_artículo. El nombre del rol origen: factura de el rol destino: producto
+DISTINTO en: asoOrigin: proveedor_articulo. El nombre del rol origen: proveedores de el rol destino: producto
+LA clase destino: Articulo y el nombre de rol: producto
+DISTINTO en: asoTarget: articulo_producto. El nombre del rol destino: productos de el rol origen: producto
+LA clase de getAttributeOtherSide es: Articulo y el nombre de rol: productoel result es: null
+LA clase origen: Articulo y el nombre de rol: producto
+DISTINTO en: asoOrigin: factura_artículo. El nombre del rol origen: factura de el rol destino: producto
+DISTINTO en: asoOrigin: proveedor_articulo. El nombre del rol origen: proveedores de el rol destino: producto
+LA clase destino: Articulo y el nombre de rol: producto
+DISTINTO en: asoTarget: articulo_producto. El nombre del rol destino: productos de el rol origen: producto
+LA clase de getAttributeOtherSide es: Articulo y el nombre de rol: productoel result es: null
+3162 [main] ERROR        org.eclipse.xpand2.Generator  - Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void]
+java.lang.RuntimeException: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void]
+	at org.eclipse.internal.xtend.type.baseimpl.PolymorphicResolver.getFeature(PolymorphicResolver.java:112)
+	at org.eclipse.internal.xtend.type.baseimpl.PolymorphicResolver.getExtension(PolymorphicResolver.java:56)
+	at org.eclipse.xtend.expression.ExecutionContextImpl$ExtensionsForNameAndTypeCache.createNew(ExecutionContextImpl.java:97)
+	at org.eclipse.xtend.expression.ExecutionContextImpl$ExtensionsForNameAndTypeCache.createNew(ExecutionContextImpl.java:1)
+	at org.eclipse.internal.xtend.util.Cache.get(Cache.java:26)
+	at org.eclipse.xtend.expression.ExecutionContextImpl.getExtensionForTypes(ExecutionContextImpl.java:371)
+	at org.eclipse.xtend.expression.ExecutionContextImpl.getExtension(ExecutionContextImpl.java:382)
+	at org.eclipse.internal.xtend.expression.ast.OperationCall.evaluateInternal(OperationCall.java:117)
+	at org.eclipse.internal.xtend.expression.ast.Expression.evaluate(Expression.java:51)
+	at org.eclipse.internal.xtend.expression.ast.OperationCall.evaluateInternal(OperationCall.java:76)
+	at org.eclipse.internal.xtend.expression.ast.Expression.evaluate(Expression.java:51)
+	at org.eclipse.internal.xpand2.ast.ExpressionStatement.evaluateInternal(ExpressionStatement.java:45)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.IfStatement.evaluateInternal(IfStatement.java:93)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.IfStatement.evaluateInternal(IfStatement.java:101)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.IfStatement.evaluateInternal(IfStatement.java:96)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.IfStatement.evaluateInternal(IfStatement.java:96)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.ForEachStatement.evaluateInternal(ForEachStatement.java:121)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.IfStatement.evaluateInternal(IfStatement.java:93)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.IfStatement.evaluateInternal(IfStatement.java:96)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.ForEachStatement.evaluateInternal(ForEachStatement.java:121)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.FileStatement.evaluateInternal(FileStatement.java:86)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.AbstractDefinition.evaluate(AbstractDefinition.java:178)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.invokeDefinition(ExpandStatement.java:246)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.evaluateInternal(ExpandStatement.java:190)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.AbstractDefinition.evaluate(AbstractDefinition.java:178)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.invokeDefinition(ExpandStatement.java:246)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.evaluateInternal(ExpandStatement.java:226)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.AbstractDefinition.evaluate(AbstractDefinition.java:178)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.invokeDefinition(ExpandStatement.java:246)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.evaluateInternal(ExpandStatement.java:226)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.AbstractDefinition.evaluate(AbstractDefinition.java:178)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.invokeDefinition(ExpandStatement.java:246)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.evaluateInternal(ExpandStatement.java:226)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.AbstractDefinition.evaluate(AbstractDefinition.java:178)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.invokeDefinition(ExpandStatement.java:246)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.evaluateInternal(ExpandStatement.java:226)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.internal.xpand2.ast.AbstractDefinition.evaluate(AbstractDefinition.java:178)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.invokeDefinition(ExpandStatement.java:246)
+	at org.eclipse.internal.xpand2.ast.ExpandStatement.evaluateInternal(ExpandStatement.java:226)
+	at org.eclipse.internal.xpand2.ast.Statement.evaluate(Statement.java:41)
+	at org.eclipse.xpand2.Generator.invokeInternal2(Generator.java:272)
+	at org.eclipse.xtend.expression.AbstractExpressionsUsingWorkflowComponent.invokeInternal(AbstractExpressionsUsingWorkflowComponent.java:232)
+	at org.eclipse.emf.mwe.core.lib.AbstractWorkflowComponent.invoke(AbstractWorkflowComponent.java:126)
+	at org.eclipse.emf.mwe.core.container.CompositeComponent.internalInvoke(CompositeComponent.java:104)
+	at org.eclipse.emf.mwe.core.container.CompositeComponent.invoke(CompositeComponent.java:89)
+	at org.eclipse.emf.mwe.core.container.CompositeComponent.internalInvoke(CompositeComponent.java:104)
+	at org.eclipse.emf.mwe.core.container.CompositeComponent.invoke(CompositeComponent.java:89)
+	at org.eclipse.emf.mwe.core.WorkflowEngine.executeWorkflow(WorkflowEngine.java:174)
+	at org.eclipse.emf.mwe.core.WorkflowEngine.run(WorkflowEngine.java:53)
+	at org.eclipse.emf.mwe.core.WorkflowRunner.doRun(WorkflowRunner.java:192)
+	at org.eclipse.emf.mwe.core.WorkflowRunner.main(WorkflowRunner.java:71)
+3169 [main] ERROR        org.eclipse.xpand2.Generator  - Error in Component nhibernate.generator of type org.eclipse.xpand2.Generator: 
+	EvaluationException : Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void]
+	persistence::nhibernate::netnhibernateCAD.xpt[11024,15] on line 211 '.getAttributeOtherSide(this,arg.formattedName().argument2Property().toFirstLower()).formattedName()'
+	persistence::nhibernate::netnhibernateCAD.xpt[371,39] on line 15 'EXPAND nhibernateCADs FOREACH .classes()'                                                              
+	persistence::nhibernate::netnhibernateCAD.xpt[287,10] on line 10 'EXPAND CAD'                                                                                            
+	persistence::CAD.xpt[64,54] on line 4 'EXPAND persistence::nhibernate::netnhibernateCAD::main'                                                                           
+	workflow::nhibernate::workflow.xpt[453,29] on line 13 'EXPAND persistence::CAD::main'                                                                                    
+	workflow::nhibernate::workflow.xpt[113,72] on line 6 'EXPAND nHibernateGeneration FOR (ConceptualModel)var conceptual'                                                   
+	[23,52] on line 1 'EXPAND workflow::nhibernate::workflow::main FOR true'                                                                                                 
+
+3169 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - Workflow interrupted. Reason: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void]
+3170 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: .getAttributeOtherSide(this,arg.formattedName().argument2Property().toFirstLower()).formattedName(); Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3170 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: .getAttributeOtherSide(this,arg.formattedName().argument2Property().toFirstLower()).formattedName().toFirstUpper(); Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3170 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: EXPRESSION: .getAttributeOtherSide(this,arg.formattedName().argument2Property().toFirstLower()).formattedName().toFirstUpper(); Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3170 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: org.eclipse.internal.xpand2.ast.IfStatement@5aa0dbf4; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3170 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: org.eclipse.internal.xpand2.ast.IfStatement@16afbd92; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3171 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: org.eclipse.internal.xpand2.ast.IfStatement@2c5d601e; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3171 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: org.eclipse.internal.xpand2.ast.IfStatement@7fe083b1; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3171 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: «FOREACH o.argsNotPrimitiveType() AS arg»...«ENDFOREACH»; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3174 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: org.eclipse.internal.xpand2.ast.IfStatement@23c388c2; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3174 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: org.eclipse.internal.xpand2.ast.IfStatement@486be205; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3175 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: «FOREACH operations AS o»...«ENDFOREACH»; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3175 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: «FILE .getCADDirectory()»...«ENDFILE»; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3175 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: nhibernateCADs : Class; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3176 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: EXPAND nhibernateCADs FOREACH .classes(); Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3176 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: CAD : ConceptualModel; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3176 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: EXPAND CAD; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3176 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: main : ConceptualModel; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3176 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: EXPAND persistence::nhibernate::netnhibernateCAD::main; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3176 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: main : ConceptualModel; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3176 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: EXPAND persistence::CAD::main; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3177 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: nHibernateGeneration : ConceptualModel; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3177 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: EXPAND nHibernateGeneration FOR (ConceptualModel)var conceptual; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3177 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: main : Boolean; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
+3178 [main] ERROR eclipse.emf.mwe.core.WorkflowEngine  - [ERROR]: Ambiguous operations String formattedName(Attribute this) and String formattedName(Enumeration this) for param types [Void](Element: EXPAND workflow::nhibernate::workflow::main FOR true; Reported by: Generator(nhibernate.generator): generating 'workflow::nhibernate::workflow::main FOR true' => [CONFIGURATION:../TiendaOnlineGen(overwrite=false,append=false,fileEncoding=utf-8), ../TiendaOnlineGen])
